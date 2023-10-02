@@ -1,0 +1,14 @@
+C:\Users\joaom\Documents\c#Calculator\bin\Debug\net7.0\c#Calculator.exe
+C:\Users\joaom\Documents\c#Calculator\bin\Debug\net7.0\c#Calculator.deps.json
+C:\Users\joaom\Documents\c#Calculator\bin\Debug\net7.0\c#Calculator.runtimeconfig.json
+C:\Users\joaom\Documents\c#Calculator\bin\Debug\net7.0\c#Calculator.dll
+C:\Users\joaom\Documents\c#Calculator\bin\Debug\net7.0\c#Calculator.pdb
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\c#Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\c#Calculator.AssemblyInfoInputs.cache
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\c#Calculator.AssemblyInfo.cs
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\c#Calculator.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\c#Calculator.dll
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\refint\c#Calculator.dll
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\c#Calculator.pdb
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\c#Calculator.genruntimeconfig.cache
+C:\Users\joaom\Documents\c#Calculator\obj\Debug\net7.0\ref\c#Calculator.dll
